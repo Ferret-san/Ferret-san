@@ -10,7 +10,7 @@
 
 <h3>🛠 Tech Stack</h3>
 
-- 💻 &nbsp; JavaScript | Python | C++ | Solidity | MATLAB
+- 💻 &nbsp; JavaScript | Python | C++ | Java | Solidity | MATLAB
 - 🌐 &nbsp; HTML | CSS | Bootstrap | Node.js | ReactJS | Express | Redux | Gatsb
 - 🛢 &nbsp; SQL | MongoDB | GrapQL
 - 🔧 &nbsp; Git | AWS | Heroku | Docker | Linux
@@ -23,7 +23,7 @@
 <h3> 🤝🏻 Connect with Me </h3>
 
 <p align="center">
-<a href="https://ferret-san.github.io/"><img alt="Website" src="https://img.shields.io/badge/Website--blue?style=flat-square&logo=google-chrome"></a>
+<a href="https://ferret-san.github.io/"><img alt="Website" src="https://img.shields.io/badge/Website-ferret-san-blue?style=flat-square&logo=google-chrome"></a>
 <a href="https://www.linkedin.com/in/diego-ferrer"><img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-Diego%20Ferrer-blue?style=flat-square&logo=linkedin"></a>
 <a href="mailto:diego.ferrer@ufl.edu"><img alt="Email" src="https://img.shields.io/badge/Email-diego.ferrer@ufl.edu-blue?style=flat-square&logo=gmail"></a>
 </p>
