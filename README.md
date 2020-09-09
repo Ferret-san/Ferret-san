@@ -23,7 +23,7 @@
 <h3> 🤝🏻 Connect with Me </h3>
 
 <p align="center">
-<a href="https://ferret-san.github.io/"><img alt="Website" src="https://img.shields.io/badge/Website-www.adityavsingh.com-blue?style=flat-square&logo=google-chrome"></a>
+<a href="https://ferret-san.github.io/"><img alt="Website" src="https://img.shields.io/badge/Website-www.ferret-san.github.io-blue?style=flat-square&logo=google-chrome"></a>
 <a href="https://www.linkedin.com/in/diego-ferrer"><img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-Diego%20Ferrer-blue?style=flat-square&logo=linkedin"></a>
 <a href="mailto:diego.ferrer@ufl.edu"><img alt="Email" src="https://img.shields.io/badge/Email-diego.ferrer@ufl.edu-blue?style=flat-square&logo=gmail"></a>
 </p>
