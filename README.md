@@ -11,7 +11,7 @@
 <h3>🛠 Tech Stack</h3>
 
 - 💻 &nbsp; JavaScript | Python | C++ | Java | Solidity | MATLAB
-- 🌐 &nbsp; HTML | CSS | Bootstrap | Node.js | ReactJS | Express | Redux | Gatsb
+- 🌐 &nbsp; HTML | CSS | Bootstrap | Node.js | ReactJS | Express | Redux | Gatsby
 - 🛢 &nbsp; SQL | MongoDB | GrapQL
 - 🔧 &nbsp; Git | AWS | Heroku | Docker | Linux
 - 🖥 &nbsp; Figma
