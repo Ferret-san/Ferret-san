@@ -4,9 +4,9 @@
 
 - 🤔 &nbsp; Exploring new technologies and building apps on my spare time.
 - 🎓 &nbsp; Studying Computer Science and Business at the University of Florida 🐊.
-- 💼 &nbsp; Working as a Software Engineer Intern at Medius Research and as an Engineering Manager at Dawn.so .
+- 💼 &nbsp; Working as a Blockchain Developer Intern @ Qtum Foundation.
 - 🌱 &nbsp; Learning more about Graph Databases, Blockchain and Artificial Intelligence.
-- 🧑‍💻 &nbsp; Aspiring Software Engineer.
+- 🧑‍💻 &nbsp; Blockchain Developer Intern @ Qtum and future Software Engineer Intern at Microsoft.
 
 <h3>🛠 Tech Stack</h3>
 
