@@ -3,14 +3,14 @@
 <h3> 👨🏻‍💻 About Me </h3>
 
 - 🤔 &nbsp; Exploring new technologies and building apps on my spare time.
-- 🎓 &nbsp; Studying Computer Science and Business at the University of Florida 🐊.
-- 💼 &nbsp; Working as a Blockchain Developer Intern @ Qtum Foundation.
-- 🌱 &nbsp; Learning more about Graph Databases, Blockchain and Artificial Intelligence.
-- 🧑‍💻 &nbsp; Blockchain Developer Intern @ Qtum and future Software Engineer Intern at Microsoft.
+- 🎓 &nbsp; Senior Computer Science student at the University of Florida 🐊.
+- 💼 &nbsp; Working as a Software Engineer Intern @ Microsoft 💻.
+- 🌱 &nbsp; Learning more about Blockchains, Ethereum & L2, Smart Contracts, and Distributed Systems.
+- 🧑‍💻 &nbsp; Software Engineer Intern at Microsoft; Previous Blockchain Developer Intern @ Qtum Foundation.
 
 <h3>🛠 Tech Stack</h3>
 
-- 💻 &nbsp; JavaScript | Python | C++ | Java | Solidity | MATLAB
+- 💻 &nbsp; JavaScript | Python | C++ | Java | Solidity
 - 🌐 &nbsp; HTML | CSS | Bootstrap | Node.js | ReactJS | Express | Redux | Gatsby
 - 🛢 &nbsp; SQL | MongoDB | GrapQL
 - 🔧 &nbsp; Git | AWS | Heroku | Docker | Linux
