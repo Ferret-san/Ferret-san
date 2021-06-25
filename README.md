@@ -5,7 +5,7 @@
 - 🤔 &nbsp; Exploring new technologies and building apps on my spare time.
 - 🎓 &nbsp; Senior Computer Science student at the University of Florida 🐊.
 - 💼 &nbsp; Working as a Software Engineer Intern @ Microsoft 💻.
-- 🌱 &nbsp; Learning more about Blockchains, Ethereum & L2, Smart Contracts, and Distributed Systems.
+- 🌱 &nbsp; Learning more about Blockchain Technology, Ethereum & L2, Smart Contracts, and Distributed Systems.
 - 🧑‍💻 &nbsp; Software Engineer Intern at Microsoft; Previous Blockchain Developer Intern @ Qtum Foundation.
 
 <h3>🛠 Tech Stack</h3>
