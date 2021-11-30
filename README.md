@@ -4,7 +4,7 @@
 
 - 🤔 &nbsp; Exploring new technologies and building apps on my spare time.
 - 💼 &nbsp; Working as a Smart Contract Engineer @fractional-company 💻.
-- 🧑‍💻 &nbsp; Software Engineer Intern at Microsoft; Previous Blockchain Developer Intern @ Qtum Foundation.
+- 🧑‍💻 &nbsp; Previous Software Engineer Intern at Microsoft; Previous Blockchain Developer Intern @ Qtum Foundation.
 
 <h3>🛠 Tech Stack</h3>
 
